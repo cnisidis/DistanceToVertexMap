@@ -1,6 +1,8 @@
 # DistanceToVertexMap
 Blender : Bake Distance Map as Vertex Color
 
+![alt text](https://github.com/cnisidis/DistanceToVertexMap/blob/master/preview_image.png?raw=true)
+
 This addon is part of the KYKEON Toolkit but it will be provided as a separate one, although after installation you may find it under the KYKEON tab in your 3D Viewport.
 
 **How it works**
