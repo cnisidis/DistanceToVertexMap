@@ -1,13 +1,30 @@
 # DistanceToVertexMap
-Blender : Bake Distance Map as Vertex Color
+Blender : Bake Distance as Vertex Color or Weight Map
 
 ![alt text](https://github.com/cnisidis/DistanceToVertexMap/blob/master/preview_image.png?raw=true)
 
 
+**CAUTION**
+- After the last update the "ToVertexColor" Operator is broken (WIP)
+
 **How it works**
 
--Firstly select the object you want to bake the color info to and then pick the object which will be your distant point (if you don't pick any the addon will assume that this point is the center of your scene)
+- In order to work properly you must use an EMPTY as a "target" (influence) object. Thus for the order you will pick the objects doesn't matter.
 
--Press the button BakeToVertex and check the result on Vertex Painting Mode.
+- Be sure that you have selected your MESH type object and on EMPTY object
 
-Good Luck!
+- ToVertexColor will create a vertex color map (Red Channel)
+
+- ToWeightMap will write the distance value as per vertex weight (normalized)
+
+
+**TODO**
+
+- Calculate the mean distance from multiple points (blending)
+- Add Pointer properties in UI for selecting objects interactively
+
+
+
+
+
+
