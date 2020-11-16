@@ -1,6 +1,16 @@
 # DistanceToVertexMap
 Blender : Bake Distance as Vertex Color or Weight Map
 
+**TO WEIGHT MAP**
+
+![alt text](https://github.com/cnisidis/DistanceToVertexMap/blob/master/preview_image_02.png?raw=true)
+
+![alt text](https://github.com/cnisidis/DistanceToVertexMap/blob/master/preview_image_01.png?raw=true)
+
+![alt text](https://github.com/cnisidis/DistanceToVertexMap/blob/master/preview_image_03.png?raw=true)
+
+**TO VERTEX COLOR**
+
 ![alt text](https://github.com/cnisidis/DistanceToVertexMap/blob/master/preview_image.png?raw=true)
 
 
