@@ -13,6 +13,7 @@ Blender : Bake Distance as Vertex Color or Weight Map
 
 ![alt text](https://github.com/cnisidis/DistanceToVertexMap/blob/master/preview_image.png?raw=true)
 
+https://www.youtube.com/watch?v=B6kxMKF8gWA
 
 **CAUTION**
 - After the last update the "ToVertexColor" Operator is broken (WIP)
